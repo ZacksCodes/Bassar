@@ -1,6 +1,6 @@
 @font-face {
-  src: url(fonts/Aquatico/Aquatico.otf);
   font-family: Aquatico;
+  src: url(fonts/Aquatico/Aquatico.otf);
 }
 body {
   line-height: 1.7;
