@@ -1,10 +1,7 @@
-/*------------------------------------------------------------
-|  Author: Free-Template.co                                   
-|  Author URL: #                      
-|  License: https://creativecommons.org/licenses/by/3.0/      
-|  License URL: https://creativecommons.org/licenses/by/3.0/  
--------------------------------------------------------------*/
-/* Base */
+@font-face {
+  src: url(fonts/Aquatico/Aquatico.otf);
+  font-family: Aquatico;
+}
 body {
   line-height: 1.7;
   color: gray;
@@ -308,7 +305,7 @@ h1, h2, h3, h4, h5,
   position: relative;
   font-weight: 900;
   font-size: 1.3rem;
-  font-family: "Aquatico";
+  font-family: Aquatico;
   letter-spacing: .2rem; }
   .site-logo a {
     color: #fff; }
